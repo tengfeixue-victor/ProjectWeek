@@ -61,6 +61,8 @@ In this project week, we work on releasing the code of SupWMA. We provide the tr
 
 ![Selection_053](https://user-images.githubusercontent.com/56477109/150529903-7b622214-3b80-4d1c-a9ce-c8fee220ab10.png)
 
+![Selection_054](https://user-images.githubusercontent.com/56477109/150531974-615413de-6f28-4938-a121-511f3d351969.png)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
